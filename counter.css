@@ -1,0 +1,31 @@
+body{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background-color:lightcyan;
+    text-align: center;
+}
+h1.counter{
+    padding-top:10% ;
+    
+}
+h1{
+    font-size: 70px;
+}
+button{
+  
+    display: inline-block;
+    padding: 10px;
+    color:black;
+    border-color:black;
+    border: 2px solid;
+    margin: 7px;
+    font-family: 'Ubuntu Condensed', sans-serif; 
+
+}
+button:hover {
+    background-color: #00e8f4; /* Green */
+    color: white;
+    transition-duration: 0.4s;
+  }
+  button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
